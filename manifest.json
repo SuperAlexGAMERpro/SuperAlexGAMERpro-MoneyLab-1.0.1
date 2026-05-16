@@ -1,7 +1,7 @@
 {
     "name": "MoneyLab",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/SuperAlexGAMERpro/MoneyLab",
+    "website_url": "https://github.com/SuperAlexGAMERpro/SuperAlexGAMERpro-MoneyLab-1.0.0",
     "description": "A BONELAB code mod that Chappie made as a gift for my 15th birthday! This mod will not work without my money prop mod! Go download it here!: https://mod.io/g/bonelab/m/superalexs-money-pack#description",
     "dependencies": [
         "bonelib-BoneLib-3.2.1"
